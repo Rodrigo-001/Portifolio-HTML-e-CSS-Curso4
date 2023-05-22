@@ -117,3 +117,7 @@ body{
         width: auto;
     }
 }
+.perfil{
+    box-shadow: 1px 1px 10px#22D4FD;
+    border-radius: 5px 5px;
+}
